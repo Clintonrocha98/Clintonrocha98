@@ -6,18 +6,21 @@
 </div>
 <div>
   <p>
-    - 🔭 Atualmente estou trabalhando em pequenos projetos que me ajudam a ampliar meu conhecimento no mundo da programação e no desenvolvimento das minhas habilidades na área de desenvolvedor Front-end.
+    - 🔭 Sempre estou fazendo algum pequeno projeto que me desafie ou que me ajude a melhorar meus conhecimentos.
   </p>
   <p>
-    - 🌱 Estou aprendendo HTML, CSS e JS, mas não pretendo parar por aqui, sei que ainda existe um bom caminho para percorrer. 
+    - 🌱 Estou aperfeiçoando meu conhecimento com ReactJS, mas não pretendo parar por aqui, sei que ainda existe um bom caminho para percorrer. 
   </p>
 </div>
 
 ###
 <div align="center">
+  <img align="center" alt="React" title="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
+  <img align="center" alt="Sass" title="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img align="center" alt="JavaScript" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">   
   <img align="center" alt="HTML" title="HTML 5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" title="CSS 3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+            
 </div>
 
 ###
