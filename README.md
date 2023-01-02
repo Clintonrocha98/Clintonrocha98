@@ -1,10 +1,13 @@
-<h1 align="center"> Olá! Eu sou o Clinton Rocha <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> </h1> 
+<h1 align="center"> Olá!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> </h1> 
 <div align="center">
   <a href="https://www.linkedin.com/in/clintonrocha/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
 <div>
+  <p>
+    Me chamo Clinton Rocha, tenho 24 anos, moro em Porto Seguro - BA, sou estudante front-end autodidata que busca ingressar na carreira com o máximo de eficiência.
+  </p>
   <p>
     - 🔭 Sempre estou fazendo algum pequeno projeto que me desafie ou que me ajude a melhorar meus conhecimentos.
   </p>
