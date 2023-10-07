@@ -31,7 +31,7 @@
 <br/>
 <div align="center">
 <img align="left" height="150" src="https://4.bp.blogspot.com/-TBcBFMT_wM8/U4CnxAeBpwI/AAAAAAAAHwc/QWgzVVWdmZI/s1600/ONE+PIECE+2.gif"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Clintonrocha98&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Clintonrocha98&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 <img align="right" height="150" src="https://i.gifer.com/origin/e6/e6986098783dbc8338f3e4dfdfb67b34.gif"  />
 </div>
 
