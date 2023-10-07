@@ -1,4 +1,4 @@
-<h1 align="center"> Hi! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> </h1> 
+<h1 align="center"> Hi! 🤟🏽</h1> 
 <br/>
 <div align="center">
   <a href="https://www.linkedin.com/in/clintonrocha/" target="_blank">
