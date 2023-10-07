@@ -1,33 +1,43 @@
-<h1 align="center"> Olá!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> </h1> 
+<h1 align="center"> Hi! My name is Clinton Rocha!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> </h1> 
 <div align="center">
   <a href="https://www.linkedin.com/in/clintonrocha/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
-<div>
-  <p>
-    Me chamo Clinton Rocha, tenho 24 anos, moro em Porto Seguro - BA, sou estudante front-end autodidata que busca ingressar na carreira com o máximo de eficiência.
-  </p>
-  <p>
-    - 🔭 Sempre estou fazendo algum pequeno projeto que me desafie ou que me ajude a melhorar meus conhecimentos.
-  </p>
-  <p>
-    - 🌱 Estou aperfeiçoando meu conhecimento com ReactJS, mas não pretendo parar por aqui, sei que ainda existe um bom caminho para percorrer. 
-  </p>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
 </div>
 
-###
-<div align="center">
-  <img align="center" alt="React" title="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
-  <img align="center" alt="Sass" title="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img align="center" alt="JavaScript" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">   
-  <img align="center" alt="HTML" title="HTML 5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" title="CSS 3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-            
-</div>
+
+<img align="left" height="150" src="https://4.bp.blogspot.com/-TBcBFMT_wM8/U4CnxAeBpwI/AAAAAAAAHwc/QWgzVVWdmZI/s1600/ONE+PIECE+2.gif"  />
+
+
+<img align="right" height="150" src="https://i.gifer.com/origin/e6/e6986098783dbc8338f3e4dfdfb67b34.gif"  />
 
 ###
+
+<br clear="both">
+
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=clintonrocha98&show_icons=true&theme=chartreuse-dark&include_all_commits=true">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clintonrocha98&layout=compact&langs_count=7&theme=chartreuse-dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Clintonrocha98&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
+
