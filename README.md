@@ -8,7 +8,7 @@
 <p align="left">✨ Desenvolvedor Web</p>
 <p align="left">👻 Tenho 25 anos</p>
 <p align="left">🏖 Sou de Porto Seguro - BA</p>
-<p>🎲 Faço uns artigos no <a href="https://dev.to/clintonrocha98" target="_blank">Dev.to</a></p>
+<p>🎲 Faço artigos no <a href="https://dev.to/clintonrocha98" target="_blank">Dev.to</a></p>
 
 <h3>Ultimos artigos:</h3>
 <a href="https://dev.to/clintonrocha98/primeiros-passos-no-docker-m0k" target="_blank">- Primeiros passos no Docker</a>
