@@ -19,7 +19,7 @@
 
 <p align="left">✨ Desenvolvedor web</p>
 <p align="left">👻 25 Anos</p>
-<p align="left">🏖 Sou de Porto Seguro - BA</p>
+<p align="left">🏖 Porto Seguro - BA</p>
 <p>🎲 Faço artigos no <a href="https://dev.to/clintonrocha98" target="_blank">Dev.to</a></p>
 
 <h3>Ultimos artigos:</h3>
