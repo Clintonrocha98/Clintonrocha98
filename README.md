@@ -20,11 +20,8 @@
 
 ## Projetos
 
-### [PicPay Simplificado](https://github.com/Clintonrocha98/picpay-desafio-backend)
-API de pagamentos com depósito e transferências entre usuários comuns e lojistas.
-
-### [Quero Programar](https://quero-programar.pages.dev/)
-Um site com recomendações de links úteis para iniciantes e pessoas que estão estudando programação. 
+- [PicPay Simplificado](https://github.com/Clintonrocha98/picpay-desafio-backend): API de pagamentos com depósito e transferências entre usuários comuns e lojistas.
+- [Quero Programar](https://quero-programar.pages.dev/): Um site com recomendações de links úteis para iniciantes e pessoas que estão estudando programação. 
 
 ## Artigos
 
