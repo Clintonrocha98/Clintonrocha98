@@ -18,6 +18,10 @@
 - Amo ir na praia 
 - Tenho **3 gatas**
 
+<div align="center">
+  <img src="https://www.codewars.com/users/Clintonrocha98/badges/large" alt="codewars plataforma com desafios de codigo"/>
+</div>
+
 ## Projetos
 
 - [PicPay Simplificado](https://github.com/Clintonrocha98/picpay-desafio-backend): API de pagamentos com depósito e transferências entre usuários comuns e lojistas.
